@@ -2,35 +2,7 @@ import java.util.Scanner;
 
 public class Lesson2 {
     public static void main(String[] args) {
-//        //целые
-//        byte b; // 8 бит -128 127
-//        short shor; // 16 бит -32768 32767
-//        int integ; // 32 бит -2147483648 2147483647
-//        long long_L; // 64 бит
-//        //дробные
-//        float f; //32 бит
-//        double d;//64 бит
-//        //логический
-//        boolean bool; //8 бит в массивах 32 при не использовании в массивах true or false
-//        // символьная
-//        char ch; // 16 бит 0 65536
-//        integ = 100000;
-//        bool = true;
-//        b = 16;
-//        shor = 256;
-//        d = 2.7;
-////        integ=b;
-////        System.out.println(integ);
-//
-////        shor=(short) integ;
-////        System.out.println(shor);
-////        integ =(int)d;
-////        System.out.println(integ);
-//        ch = "!";
-//        char cf = "\u0022";
-//        ch = "8";
-//        integ = 32816;
-//        ch = (char) integ;
+
 ////        System.out.println(ch);
 //        ch = "\u0022";
 //        System.out.println(" \"привет" + ch + " Андрей");
